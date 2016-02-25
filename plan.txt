@@ -1,0 +1,24 @@
+Falcon 9 Plan
+-------------
+
+Gameplay:
+ - Two options for starting position:
+	> Stage detatch
+	> Landing
+ - Two options for landing
+	> Land
+	> Barge
+
+Very minimalist design
+ - Left and right control little thingies at the top
+ - Rotational velocity indicator?
+ - Fuel level indication
+ - 'Up' to fire thruster
+ - Key to extend legs
+
+ - Zooms in as you're landing
+ - Maybe scrollwheel for thrust? That'd be better
+	> Left click for left thrust, right for right
+	> Middle mouse for legs
+
+ - Have a hover button?
